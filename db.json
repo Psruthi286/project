@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "1001",
+      "name": "car",
+      "price": "12",
+      "quantity": "12"
+    },
+    {
+      "id": "1002",
+      "name": "bus",
+      "price": "59876",
+      "quantity": "2"
+    }
+  ]
+}
